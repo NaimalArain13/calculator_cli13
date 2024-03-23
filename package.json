@@ -1,5 +1,5 @@
 {
-  "name": "calculator00",
+  "name": "my13-calculator-cli",
   "version": "2.0.0",
   "description": "This is a simple cli calculator",
   "main": "index.js",
