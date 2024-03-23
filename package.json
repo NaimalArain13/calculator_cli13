@@ -1,6 +1,6 @@
 {
   "name": "calculator00",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is a simple cli calculator",
   "main": "index.js",
   "type": "module",
